@@ -1,5 +1,5 @@
 ## Hi there 👋
-I work with python, R and bash
+I work with python, R and bash. Working on making some of the private repositories public.
 
 <!--
 **NomadicPython/NomadicPython** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
