@@ -1,4 +1,5 @@
 ## Hi there 👋
+I work with python, R and bash
 
 <!--
 **NomadicPython/NomadicPython** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
